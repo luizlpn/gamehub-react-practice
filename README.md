@@ -1,19 +1,28 @@
-# Gamehub - React Learning Project
-A responsive game catalog platform built with React, following a YouTube tutorial and enhanced with professional practices.
+# React Learning Project
 
-## Features
-(soon)
 
 ## Technologies
 - React (Hooks)
-- JavaScript ES6+
+- TypeScript
 - HTML/CSS
 
-## Screenshots
-(soon)
+## Tools
+- Vite : used to setup my react + TypeScript aplication (npm create vite@latest)
+- Bootstrap
+- ES7 React/Redux/GraphQL/React-Native snippets : provides shortcuts (snippets) that makes programming with react easier
 
-## Live Demo
-(soon)
+# Props x State
 
-## What Have I learned?
-(soon)
+## Props:
+- input passed to a component
+- similar to function args
+- immutable (pattern)
+
+
+## State:
+- data managed by a component
+- similar to a local variable
+- Mutable
+
+### Both of them
+cause a re-render when changed
